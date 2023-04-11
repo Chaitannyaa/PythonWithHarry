@@ -1,9 +1,19 @@
-# This repository contains Python Full course resources including Source code, notes pdfs, Questionary all is provided by CodeWithHarry.
+# Python Full Course Resources
+This repository contains resources for the Python Full Course, created by CodeWithHarry on Youtube. The resources in this repository include source code, notes in PDF format, and a questionary.
 
-# All content of this branch is created by CodeWithHarry channel Owner and He has provided it free to all learners on his Youtube channel.
+# About the Course
+The Python Full Course is an introductory-level course designed to teach beginners how to program in Python. The course covers the basics of programming, including data types, functions, loops, conditionals, and more. By the end of the course, students will have a strong foundation in Python programming and be ready to tackle more advanced topics.
 
-# I am using this for learning purpose.
+# Usage
+This repository is intended for educational purposes only. You are welcome to use the resources in this repository to learn Python and practice your programming skills. However, please note that the content in this repository is not to be used for any commercial or for-profit purposes.
 
-# This Video link https://youtu.be/gfDE2a7MKjA
+# Resources
+Python Full Course on Youtube
+Source code
+Notes in PDF format
+Questionary
 
-# Thank you, Lets learn and practice python langauge!
+# Acknowledgments
+Thank you to CodeWithHarry for providing this course and making it accessible to all learners. We also thank the contributors of this repository who made it possible to have all the resources in one place.
+
+Let's learn Python lamgauge!

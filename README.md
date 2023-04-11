@@ -20,4 +20,4 @@ Questionary
 # Acknowledgments
 Thank you to CodeWithHarry for providing this course and making it accessible to all learners. I also thank the contributors to repository who want to add more.
 
-# Let's learn Python lamgauge!
+# Let's learn Python langauge!

@@ -8,12 +8,16 @@ The Python Full Course is an introductory-level course designed to teach beginne
 This repository is intended for educational purposes only. You are welcome to use the resources in this repository to learn Python and practice your programming skills. However, please note that the content in this repository is not to be used for any commercial or for-profit purposes.
 
 # Resources
-Python Full Course on Youtube
+
+Python Full Course on Youtube: https://www.youtube.com/watch?v=gfDE2a7MKjA
+
 Source code
+
 Notes in PDF format
+
 Questionary
 
 # Acknowledgments
-Thank you to CodeWithHarry for providing this course and making it accessible to all learners. We also thank the contributors of this repository who made it possible to have all the resources in one place.
+Thank you to CodeWithHarry for providing this course and making it accessible to all learners. I also thank the contributors to repository who want to add more.
 
-Let's learn Python lamgauge!
+# Let's learn Python lamgauge!

@@ -19,7 +19,7 @@ def factorial_recursive(n):
         return 1
     return n * factorial_recursive(n-1)
 
-# f = factorial_iter(5)
-f = factorial_recursive(0)
-print(f)
+f = factorial_iter(5)
+f1 = factorial_recursive(0)
+print(f, f1)
 

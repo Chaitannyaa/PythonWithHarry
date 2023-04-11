@@ -1,6 +1,6 @@
-a_122 = '''harry'''
-# a = 'harry'
-# a = "harry"
+a = '''Chaitannyaa'''
+# a = 'Chaitannyaa'
+# a = "Chaitannyaa"
 b = 345
 c = 45.32
 d = True
@@ -17,3 +17,4 @@ print(type(a))
 print(type(b))
 print(type(c))
 print(type(d))
+

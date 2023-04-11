@@ -1,10 +1,23 @@
+# def readFile(filename):
+#     try:
+#         with open(filename, "r") as f:
+#             print(f.read())
+#     except FileNotFoundError:
+#         print(f"File {filename} is not found")
+        
+# readFile("1.txt")
+# readFile("2.txt")
+# readFile("3.txt")
+
 def readFile(filename):
     try:
-        with open(filename, "r") as f:
+        with open(filename, 'r') as f:
             print(f.read())
     except FileNotFoundError:
-        print(f"File {filename} is not found")
-        
+        print(f"File '{filename}' is not present in this Folder")
+
 readFile("1.txt")
-readFile("2.txt")
+readFile("22.txt")
 readFile("3.txt")
+
+

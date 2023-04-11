@@ -13,18 +13,27 @@ a = 8
 #     print("The value is not greater than 3 or 7")
 
 # 2. Multiple if statements
-if(a<3): 
-    print("The value of a is greater than 3")
+# if(a<3): 
+#     print("The value of a is greater than 3")
 
-if(a>13):
-    print("The value of a is greater than 13")
+# if(a>13):
+#     print("The value of a is greater than 13")
     
-if(a>7):
-    print("The value of a is greater than 7")
+# if(a>7):
+#     print("The value of a is greater than 7")
 
-if(a>17):
-    print("The value of a is greater than 17")
+# if(a>17):
+#     print("The value of a is greater than 17")
+# else:
+#     print("The value is not greater than 3 or 7")
+
+# print("Done")
+
+a = 22
+if (a>9):
+    print("Greater")
+if (a==22):
+    print("Equal")
 else:
-    print("The value is not greater than 3 or 7")
+    print("Lesser")
 
-print("Done")

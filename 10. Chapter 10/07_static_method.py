@@ -17,4 +17,5 @@ harry.salary = 100000
 harry.getSalary("Thanks!") # Employee.getSalary(harry)
 harry.greet() # Employee.greet()
 harry.time()
+Employee.getSalary(harry,"Thanks!")
 

@@ -1,4 +1,4 @@
-for i in range(10):
+for i in range(1,10,2):
     print(i)
 else:
-    print("This is inside else of for")
+    print("This is printed when loop exhausted")

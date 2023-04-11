@@ -1,6 +1,13 @@
-# b = "Harry's" # --> Use this if you have single quotes in your strings
-# b = 'Harry"s'
-b = '''Harry"s and 
-       Harry's'''
-print(b)
-# print(type(b))
+# # b = "Harry's" # --> Use this if you have single quotes in your strings
+# # b = 'Harry"s'
+# b = '''Harry"s and 
+#        Harry's'''
+# print(b)
+# # print(type(b))
+
+a="Chaitannyaa"
+b='Mercy"s'
+c="Mercy's"
+d='''This is "Krishna's" mercy 
+to have this passion'''
+print(a, b, c, d)

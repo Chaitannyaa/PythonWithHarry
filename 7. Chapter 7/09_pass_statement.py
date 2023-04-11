@@ -1,15 +1,20 @@
 i = 4
+class king:
+    company="kingplain"
+    def run(self, player):
+        self.player=player
+        print(f"this is {player}")
 
-def run(player):
-    pass
+    def ouch(player):
+        pass
 
-def ouch(player):
-    pass
+    if i>0:
+        pass
 
-if i>0:
-    pass
+    while i>6:
+        pass
 
-while i>6:
-  pass
-
-print("Harry is a good boy")
+    print("Chaitannyaa is a good boy")
+chaitannyaa = king()
+chaitannyaa.run(12)
+chaitannyaa.ouch() #does not provide error becoz we have pass under function

@@ -17,5 +17,7 @@ class Number:
         return 1
 
 n = Number(9)
+n1 = Number(12)
+print(n*n1)
 print(n)
 print(len(n))

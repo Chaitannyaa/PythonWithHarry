@@ -5,7 +5,7 @@ a = [1, 2 , 4, 56, 6]
 print(a)
 
 # Access using index using a[0], a[1], a[2]
-print(a[2])
+print(a[-1])
 
 # Change the value of list using
 a[0] = 98

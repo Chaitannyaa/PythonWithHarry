@@ -1,4 +1,4 @@
-03/22 08:51:01 INFO   :.main: *************** RSVP Agent started ***************
+python 03/22 08:51:01 INFO   :.main: *************** RSVP Agent started ***************
  02 
 03/22 08:51:01 INFO   :...locate_configFile: Specified configuration file: /u/user10/rsvpd1.conf
 03/22 08:51:01 INFO   :.main: Using log level 511
@@ -57,7 +57,7 @@ initialized
 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP via UDP
 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp-udp
 03/22 08:51:06 TRACE  :..entity_initialize: interface 9.67.117.98, entity for rsvp allocated and 
-initialized
+initialized python
 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP
 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp
 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP via UDP

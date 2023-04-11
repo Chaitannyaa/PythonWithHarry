@@ -1,7 +1,7 @@
 def square(num):
     return num*num
 
-l = [1, 2, 4]
+l = [1, 3, 4]
 
 # Method 1
 l2 = []

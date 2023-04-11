@@ -1,10 +1,28 @@
-f1 = input("Enter Fruit Number 1: ")
-f2 = input("Enter Fruit Number 2: ")
-f3 = input("Enter Fruit Number 3: ")
-f4 = input("Enter Fruit Number 4: ")
-f5 = input("Enter Fruit Number 5: ")
-f6 = input("Enter Fruit Number 6: ")
-f7 = input("Enter Fruit Number 7: ")
+# f1 = input("Enter Fruit Number 1: ")
+# f2 = input("Enter Fruit Number 2: ")
+# f3 = input("Enter Fruit Number 3: ")
+# f4 = input("Enter Fruit Number 4: ")
+# f5 = input("Enter Fruit Number 5: ")
+# f6 = input("Enter Fruit Number 6: ")
+# f7 = input("Enter Fruit Number 7: ")
 
-myFruitList = [f1, f2, f3, f4, f5, f6, f7]
-print(myFruitList)
+# myFruitList = [f1, f2, f3, f4, f5, f6, f7]
+# print(myFruitList)
+
+f1 = input("Enter your Fruit Number 1: ")
+f2 = input("Enter your Fruit Number 2: ")
+f3 = input("Enter your Fruit Number 3: ")
+f4 = input("Enter your Fruit Number 4: ")
+f5 = input("Enter your Fruit Number 5: ")
+f6 = input("Enter your Fruit Number 6: ")
+f7 = input("Enter your Fruit Number 7: ")
+myFruitsList=[f1, f2, f3, f4, f5, f6, f7]
+print(myFruitsList)
+
+# myFruitsList = []
+# a = None
+# while (a != "q"):
+#     a = input("Enter name of fruit or type 'q' to exit :\n ")
+#     if (a != 'q'):
+#         myFruitsList.append(a)
+# print(myFruitsList)

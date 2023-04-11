@@ -10,9 +10,11 @@ class Employee:
     eCode = 120
 
 
-class Programmer(Freelancer, Employee):
+class Programmer(Employee,Freelancer):
     name = "Rohit"
 
 p = Programmer()
+print(p.level)
 p.upgradeLevel()
+print(p.level)
 print(p.company)

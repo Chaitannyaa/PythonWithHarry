@@ -1,16 +1,31 @@
-marks = int(input("Enter Your Marks\n"))
+# marks = int(input("Enter Your Marks\n"))
+
+# if marks>=90:
+#     grade = "Ex"
+# elif marks>=80:
+#     grade = "A"
+# elif marks>=70:
+#     grade = "B"
+# elif marks>=60:
+#     grade = "C"
+# elif marks>=50:
+#     grade = "D" 
+# else:
+#     grade = "F"
+
+# print("Your grade is " + grade)
+
+marks = int(input("Enter your marks :\n"))
 
 if marks>=90:
-    grade = "Ex"
+    print( "Grade = EX ")
 elif marks>=80:
-    grade = "A"
+    print( "Grade = A ")
 elif marks>=70:
-    grade = "B"
+    print( "Grade = B " )
 elif marks>=60:
-    grade = "C"
+    print( "Grade = C " )
 elif marks>=50:
-    grade = "D" 
+    print( "Grade = D " )
 else:
-    grade = "F"
-
-print("Your grade is " + grade)
+    print( "Grade = F " )

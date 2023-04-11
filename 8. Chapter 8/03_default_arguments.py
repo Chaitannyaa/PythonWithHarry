@@ -1,6 +1,12 @@
-def greet(name="Stranger"):
-    print("Good Day, "+ name)
+# def greet(name="Stranger"):
+#     print("Good Day, "+ name)
  
 
-greet("Harry") 
+# greet("Don") 
+# greet()
+
+def greet(name="Stranger"):
+    print("Good Morning,", name)
+
 greet()
+greet("Chaitannyaa")

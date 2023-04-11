@@ -9,9 +9,9 @@ print("The value of 3/4 is ", 3/4)
 
 # Assignment Operators
 a = 34
-a -= 12
+a -= 2
 a *= 12
-a /= 12
+a /= 4
 print(a)
 
 # Comparison Operators

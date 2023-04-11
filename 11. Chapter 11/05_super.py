@@ -9,6 +9,7 @@ class Person:
 
 class Employee(Person):
     company = "Honda"
+    salary = 123456
 
     def __init__(self):
         super().__init__()
@@ -25,21 +26,23 @@ class Programmer(Employee):
     company = "Fiverr"
 
     def __init__(self):
-        # super().__init__()
+        super().__init__()
         print("Initializing Programmer...\n")
 
     def getSalary(self):
+        super().getSalary()
         print(f"No salary to programmers")
     
     def takeBreath(self):
         super().takeBreath()
         print("I am a Progarmmer so I am breathing++..")
 
-# p = Person()
-# p.takeBreath() 
+p = Person()
+p.takeBreath() 
 
-# e = Employee()
-# e.takeBreath() 
+e = Employee()
+e.takeBreath() 
 
 pr = Programmer()
-# pr.takeBreath() 
+pr.takeBreath() 
+pr.getSalary()

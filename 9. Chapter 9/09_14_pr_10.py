@@ -1,3 +1,3 @@
-filename = "sample.txt"
+filename = "hiscore.txt"
 with open(filename, "w") as f:
     f.write("")
